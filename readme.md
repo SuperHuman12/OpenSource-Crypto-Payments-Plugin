@@ -6,7 +6,7 @@ Version 2.1.5
 
 **Accept Bitcoin, Bitcoin Cash, Bitcoin SV, Litecoin, Dash, Dogecoin, Speedcoin, Reddcoin, Potcoin, Feathercoin, Vertcoin, Peercoin, UniversalCurrency, MonetaryUnit Payments Online on your website**
 
-# ![Payment-Gateway]
+# [Payment-Gateway]
 
 
 Our Payment Gateway with Instant Checkout allows you to easily organise your website -
